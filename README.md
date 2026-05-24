@@ -4,8 +4,7 @@ A tiny single-page tribute to the iconic Pokémon Red starter-choice scene. Pick
 
 ## Live site
 
-Once published via GitHub Pages it will be available at:
-`https://<your-username>.github.io/<repo-name>/`
+[https://ha-elpasi.github.io/pokemon_starter_picker/](https://ha-elpasi.github.io/pokemon_starter_picker/)
 
 ## Running locally
 
